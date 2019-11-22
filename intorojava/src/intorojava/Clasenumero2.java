@@ -5,7 +5,7 @@
 package intorojava;
 
 /**
- *
+ *}
  * @author LENOVO
  */
 public class Clasenumero2 {
