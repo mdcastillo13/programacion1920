@@ -25,8 +25,10 @@ public class decirsisoniguales {
          }else{
              System.out.println("no son iguales");
          }
+                 
+                 }
          
             
      }
     
-}
+
