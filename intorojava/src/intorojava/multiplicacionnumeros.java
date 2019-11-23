@@ -5,7 +5,7 @@ import java.util. Scanner;
 public class multiplicacionnumeros {
     public static void main(String[] args) {
          Scanner datos = new Scanner(System.in);
-        System.out.println("Programa para multiplicacr n numeors");
+        System.out.println("Programa para multiplicacr n numeros");
         int num;
         int acum = 1;
         boolean op = true;
