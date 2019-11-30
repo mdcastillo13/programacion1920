@@ -27,5 +27,5 @@ public class promedio_de_numeros {
         System.out.println("el promedio es es:"+prom);
     }
     
-    
+       
 }
