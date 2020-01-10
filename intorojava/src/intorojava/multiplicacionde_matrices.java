@@ -9,7 +9,7 @@ public class multiplicacionde_matrices {
     Scanner datos = new Scanner(System.in);
         System.out.println("Ingrese el numero de filas de la matriz 1");
         int fila1 = datos.nextInt();
-        datos.nextLine();
+        datos.nextLine(); 
         System.out.println("Ingrese el numero de columnas de la matriz 1");
         int col1 = datos.nextInt();
         datos.nextLine();
